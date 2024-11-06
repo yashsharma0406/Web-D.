@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+    padding: 10px;
+    background-color: aqua;
+    font-family: Helvetica, sans-serif;
+    color: #000;
+    text-decoration: none;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.link:hover{
+    color: rgb(216, 80, 80);
+    
+}
+
+.nav{
+    text-decoration: none;
+    color: rgb(121, 121, 168);
+    padding: 10px;
+    font-size: 1.1em;
+}
+
+.nav:hover{
+    color: blue;
+}
+
+#head{
+    background-color: rgba(240, 248, 255, 0.881);
+}
+
+#img{
+    width: 90vw;
+    margin-top: 3em;
+    border-radius: 1em;
+}
